@@ -13,10 +13,9 @@
 </head>
 <body>
 
-<?php include("navbar.php"); ?>
 
 <div class="profile">
-    <img src="images/friend4.jpg">
+    <img src="pics/friend4.jpg">
     <h1>Niko</h1>
     <p>
        Energetic and fun to be with. Gives helpful advice. My cousin but also part of my friend group since elementary. Taking BS Speech Language Pathology in University of Santo Tomas
