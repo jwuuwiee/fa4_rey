@@ -24,7 +24,9 @@
     <a href="index.php">← Back</a>
 </div>
 
-<?php include("footer.php"); ?>
+<div class="footer">
+    <p>Created by Juliana Rey</p>
+</div>
 
 </body>
 </html>
