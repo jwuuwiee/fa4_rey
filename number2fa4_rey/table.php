@@ -10,7 +10,7 @@ $names = [
 <!DOCTYPE html>
 <html>
 <head>
-    <title>String Functions Table</title>
+    <title>Names Table</title>
 
     <style>
         body {
@@ -49,7 +49,7 @@ $names = [
 
 <body>
 
-<h2>List of Names - String Functions</h2>
+<h2>List of Names</h2>
 
 <table>
     <tr>
