@@ -20,12 +20,14 @@
     <h1>Claire</h1>
     <p>
         Bright, expressive, and full of energy. Best friend since we were 3.
-        A fellow artist studying Interior Design.
+        A fellow artist friend who is studying Interior Design.
     </p>
     <a href="index.php">← Back</a>
 </div>
 
-<?php include("footer.php"); ?>
+<div class="footer">
+    <p>Created by Juliana Rey</p>
+</div>
 
 </body>
 </html>
