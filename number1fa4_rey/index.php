@@ -10,6 +10,24 @@
             background: #f7f7fb;
         }
 
+        
+        .navbar {
+            background: #222;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+
+        
+        .footer {
+            background: #222;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 40px;
+        }
+
+        
         .container {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -17,14 +35,15 @@
             padding: 40px;
         }
 
+       
         .card {
             background: white;
             border-radius: 15px;
             padding: 15px;
             box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-            transition: 0.3s;
             text-decoration: none;
             color: inherit;
+            transition: 0.3s;
         }
 
         .card:hover {
@@ -44,15 +63,19 @@
 
         .card p {
             font-size: 14px;
-            line-height: 1.5;
             color: #444;
+            line-height: 1.5;
         }
     </style>
-
 </head>
+
 <body>
 
-<?php include("navbar.php"); ?>
+
+<div class="navbar">
+    <h1>My Day Ones</h1>
+</div>
+
 
 <div class="container">
 
@@ -71,7 +94,7 @@
     <a class="card" href="friend3.php">
         <img src="images/friend3.jpg">
         <h2>Kam</h2>
-        <p>Calm, emotional, and spontaneous gala buddy</p>
+        <p>Calm, emotional, spontaneous gala buddy</p>
     </a>
 
     <a class="card" href="friend4.php">
@@ -83,12 +106,14 @@
     <a class="card" href="friend5.php">
         <img src="images/friend5.jpg">
         <h2>Me</h2>
-        <p>The one who is chronically online LMAOOO</p>
+        <p>The one who is chronically online LMAOO</p>
     </a>
 
 </div>
 
-<?php include("footer.php"); ?>
+<div class="footer">
+    <p>Created by Juliana Rey</p>
+</div>
 
 </body>
 </html>
