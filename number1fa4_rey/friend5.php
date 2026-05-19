@@ -13,14 +13,14 @@
 </head>
 <body>
 
-<?php include("navbar.php"); ?>
 
 <div class="profile">
-    <img src="images/friend5.jpg">
+    <img src="pics/friend5.jpg">
     <h1>Me</h1>
     <p>
         Self-explanatory. The one writing this website. A writer and artist who is (sadly) an IT student, eme. 
         I love my friends so much and I'm very grateful to have them in my life. I love you guys.
+    </p>
     <a href="index.php">← Back</a>
 </div>
 
