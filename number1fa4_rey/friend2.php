@@ -13,10 +13,8 @@
 </head>
 <body>
 
-<?php include("navbar.php"); ?>
-
 <div class="profile">
-    <img src="images/friend2.jpg">
+    <img src="pics/friend2.jpg">
     <h1>Claire</h1>
     <p>
         Bright, expressive, and full of energy. Best friend since we were 3.
