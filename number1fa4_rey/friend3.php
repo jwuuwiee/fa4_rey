@@ -13,10 +13,8 @@
 </head>
 <body>
 
-<?php include("navbar.php"); ?>
-
 <div class="profile">
-    <img src="images/friend3.jpg">
+    <img src="pics/friend3.jpg">
     <h1>Kam</h1>
     <p>
        Calm on the outside but deeply emotional. Besties since we were 4. 
