@@ -80,31 +80,31 @@
 <div class="container">
 
     <a class="card" href="friend1.php">
-        <img src="images/friend1.jpg">
+        <img src="pics/friend1.jpg">
         <h2>Yana</h2>
         <p>Strong-willed and loyal companion 💖</p>
     </a>
 
     <a class="card" href="friend2.php">
-        <img src="images/friend2.jpg">
+        <img src="pics/friend2.jpg">
         <h2>Claire</h2>
         <p>Bright, expressive, and artistic bestie</p>
     </a>
 
     <a class="card" href="friend3.php">
-        <img src="images/friend3.jpg">
+        <img src="pics/friend3.jpg">
         <h2>Kam</h2>
         <p>Calm, emotional, spontaneous gala buddy</p>
     </a>
 
     <a class="card" href="friend4.php">
-        <img src="images/friend4.jpg">
+        <img src="pics/friend4.jpg">
         <h2>Niko</h2>
         <p>Energetic advisor and childhood friend</p>
     </a>
 
     <a class="card" href="friend5.php">
-        <img src="images/friend5.jpg">
+        <img src="pics/friend5.jpg">
         <h2>Me</h2>
         <p>The one who is chronically online LMAOO</p>
     </a>
